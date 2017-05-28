@@ -1,0 +1,22 @@
+{
+  "name": "trevor",
+  "version": "1.0.0",
+  "description": "Trevor the Archivist, a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saskcow/Trevor.git"
+  },
+  "author": "Callum Tarttelin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saskcow/Trevor/issues"
+  },
+  "homepage": "https://github.com/saskcow/Trevor#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
